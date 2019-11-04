@@ -1,0 +1,2 @@
+include ':app', ':phone'
+rootProject.name='JAVAHW-20'
